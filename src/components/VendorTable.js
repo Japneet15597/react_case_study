@@ -84,7 +84,6 @@ const VendorTable = (props) => {
       };
 
       props.setData(newData);
-      cancel(key);
     }
   };
 
